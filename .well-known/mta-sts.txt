@@ -6,4 +6,4 @@ mx: ALT2.ASPMX.L.GOOGLE.COM
 mx: ASPMX2.GOOGLEMAIL.COM
 mx: ASPMX3.GOOGLEMAIL.COM
 mx: smtp.google.com
-max_age: 3600
+max_age: 86400
